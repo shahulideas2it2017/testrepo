@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/shahulideas2it2017/testrepo/issues"
   },
-  "homepage": "https://github.com/shahulideas2it2017/testrepo#readme"
+  "homepage": "https://github.com/shahulideas2it2017/testrepo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
